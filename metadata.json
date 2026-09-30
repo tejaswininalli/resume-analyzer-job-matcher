@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyser - n8n Workflow Portal",
+  "description": "Responsive, mobile-friendly application connected to the n8n Resume Analyser workflow. Seamlessly upload resumes, trigger automated analysis, and track submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
